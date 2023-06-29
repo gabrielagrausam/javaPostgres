@@ -1,0 +1,4 @@
+com\crud\selectBeauty.class
+com\crud\updateBeauty.class
+com\crud\insertBeauty.class
+com\crud\deleteBeauty.class
